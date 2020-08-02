@@ -1,0 +1,69 @@
+
+/*
+.profile-card {
+background-color: hsla(150, 120%, 50%, .4);
+}
+.head {
+background-color: hsla(140, 130%, 50%, .4);
+}
+.content {
+ background-color: hsla(120, 100%, 50%, .4);
+}
+.profile-image {
+ background-color: hsla(300, 100%, 50%, .4);
+}
+.name-headline {
+background-color: hsla(300, 100%, 50%, .4);
+}
+.about {
+background-color:hsla((600,200%,50%,.4);
+}
+.links {
+  background-color: hsla(300, 100%, 50%, .4);
+}
+÷/
+/* CSS reset */
+* {
+  margin: 2;
+  padding: 15;
+  box-sizing: border-box;
+  font-size: 100%;
+}
+body {
+  height:100 vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+   background: url('http://i.imgur.com/Yexzll6.png') no-repeat center center fixed;
+  background-size: cover;
+}
+img:hover {
+  filter: grayscale(20%);
+  transform: scale(1.1);
+}
+.profile-card {
+  background-color: hsla(0, 0%, 100%, .5);
+  border-radius: 4px;
+  box-shadow: hsla(0, 0%, 0%, .8) 10px 10px 80px;
+}
+h1, p, img {
+  margin-bottom: 1rem;
+}h1,
+p {
+  text-align: center;
+  font-family: sans-serif;
+  font-weight: 300;
+	}
+/* Contact links */
+ul {
+  list-style-type: none;
+}
+li {
+  display: inline;
+}
+
+  
+
+
+
+
